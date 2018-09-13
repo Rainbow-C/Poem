@@ -3,11 +3,6 @@ Github: Web Service That runs Git Software
 Terms:
 
 
-1. Repository   : A project which can have multiple files / repo of files
-2. Commit       : Git's way of saving ( which hash a unique hash value for every commit that you make )
-3. Branch       : collaboration 
-
-
 
 4. pull request : Take some changes from a particular branch and bring them into an Other branch.
 5. merge        : 
