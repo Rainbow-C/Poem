@@ -1,5 +1,8 @@
 Git   : Version Control System
 Github: Web Service That runs Git Software
+Terms: basics
+Github: Web Service That runs Git Software
+
 
 Terms:
 1. Repository
