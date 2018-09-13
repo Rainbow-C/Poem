@@ -7,3 +7,10 @@ red
 Green
 yellow
 these are the colors of Rainbow
+
+purple
+
+
+green
+grey
+
