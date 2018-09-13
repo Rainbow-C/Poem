@@ -1,8 +1,13 @@
 Git   : Version Control System
-Github:              Web Service That runs Git Software
+Github: Web Service That runs Git Software
+Terms: basics
+Github: Web Service That runs Git Software
+
+
 Terms:
-
-
-
+1. Repository
+2. Commit
+3. Branches
 4. pull request : Take some changes from a particular branch and bring them into an Other branch.
-5. merge        : 
+5. merge        
+6. fork  : to make their own branch
