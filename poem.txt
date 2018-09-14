@@ -8,6 +8,8 @@ Green
 yellow
 these are the colors of Rainbow
 
+closing an issue Automatically
+
 rainbow
 
 [Refer this Link](https://github.com/explore
